@@ -18,7 +18,7 @@ public class Main {
 
     private static String getData(String url) throws Exception {
         HttpURLConnection httpCon = (HttpURLConnection) new URL(url).openConnection();
-        httpCon.addRequestProperty("Authorization","token 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");
+        httpCon.addRequestProperty("Authorization","token TOKEN_HERE");
         BufferedReader dataIn = new BufferedReader(new InputStreamReader(httpCon.getInputStream())); // burası değişebilir
         return dataIn.lines().reduce("",String::concat);// burası değişebilir
     }
