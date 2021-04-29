@@ -1,0 +1,26 @@
+Repository Name,Fork Quantity,Public URL
+zookeeper,5940,https://github.com/apache/zookeeper
+camel,4260,https://github.com/apache/camel
+httpd,863,https://github.com/apache/httpd
+lucenenet,561,https://github.com/apache/lucenenet
+ofbiz,555,https://github.com/apache/ofbiz
+felix,331,https://github.com/apache/felix
+maven-plugins,283,https://github.com/apache/maven-plugins
+sling-old-svn-mirror,269,https://github.com/apache/sling-old-svn-mirror
+apr,165,https://github.com/apache/apr
+maven-scm,151,https://github.com/apache/maven-scm
+xmlgraphics-fop,108,https://github.com/apache/xmlgraphics-fop
+maven-release,97,https://github.com/apache/maven-release
+maven-enforcer,96,https://github.com/apache/maven-enforcer
+maven-wagon,93,https://github.com/apache/maven-wagon
+jspwiki,76,https://github.com/apache/jspwiki
+xalan-j,57,https://github.com/apache/xalan-j
+apr-util,52,https://github.com/apache/apr-util
+spamassassin,52,https://github.com/apache/spamassassin
+synapse,43,https://github.com/apache/synapse
+directory-studio,31,https://github.com/apache/directory-studio
+stdcxx,22,https://github.com/apache/stdcxx
+apr-iconv,17,https://github.com/apache/apr-iconv
+chainsaw,14,https://github.com/apache/chainsaw
+tapestry3,9,https://github.com/apache/tapestry3
+tapestry4,9,https://github.com/apache/tapestry4
